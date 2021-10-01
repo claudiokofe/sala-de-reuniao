@@ -2,7 +2,7 @@
  
 - Projeto para gerenciamento de salas de reunião com API Rest, Spring Boot e Angular
 
-- Ao acessar a API ela redireciona automaticamente para para `http://localhost:4200/rooms` onde é listado todas as reservas ja realizadas.
+- Ao acessar a API ela redireciona automaticamente para `http://localhost:4200/rooms` onde é listado todas as reservas ja realizadas.
 ![room1](https://user-images.githubusercontent.com/30246572/134071458-c26b78da-f03b-4270-9c3b-1ce99d31be7c.png)
 
 - Ao acessar `http://localhost:4200/add` traz a possibilidade de adicionar uma nova reserva.
